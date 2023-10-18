@@ -29,7 +29,7 @@ namespace src\transformer\utils;
 /**
  * Transformer utility for cleaning HTML from strings.
  *
- * @param null|string $string The string to clean.
+ * @param string $string The string to clean.
  * @return string
  */
 function get_string_html_removed(?string $string) {
